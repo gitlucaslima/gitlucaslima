@@ -24,5 +24,5 @@
 - Python Django framework
 - Mineração de dados
 - Produzindo projetos de software
-- Capacitação Fullstack motorola #WebAcademy
-- Sistemas de Infiormação - UFAC
+- Capacitação Fullstack Motorola #WebAcademy
+- Bacharelado em Sistemas de Informação - UFAC

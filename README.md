@@ -21,6 +21,7 @@
 
 ## Estudando
 - Node.js Express framework
+- Angular
 - Python Django framework
 - Mineração de dados
 - Produzindo projetos de software

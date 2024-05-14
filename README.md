@@ -19,10 +19,12 @@
 ### A tecnologia é algo que já está presente no hoje e no amanhã!
 
 ## Estudando
-- Node.js Express framework
+- Java
+- Springbot
 - Angular
-- Java Spring Boot framework
-- Python Django framework
+- Spring framework
+- Python
+- Django, fast e Flask api
 - Mineração de dados
 - Produzindo projetos de software
 - Capacitação Fullstack Motorola #WebAcademy

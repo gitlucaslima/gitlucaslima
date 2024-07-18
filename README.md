@@ -16,15 +16,13 @@
 <br>
 
 ### A tecnologia é algo que já está presente no hoje e no amanhã!
-
-## Estudando
 - Java
 - Springbot
 - Angular
-- Spring framework
-- Python
-- Django, fast e Flask api
-- Mineração de dados
-- Produzindo projetos de software
+- Docker
+- Menssageria
+
+
+### Formação
 - Capacitação Fullstack Motorola #WebAcademy
 - Bacharelado em Sistemas de Informação - UFAC
